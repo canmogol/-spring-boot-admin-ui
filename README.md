@@ -1,2 +1,2 @@
-# -spring-boot-admin-ui
+# spring-boot-admin-ui
 Spring Boot Admin UI
